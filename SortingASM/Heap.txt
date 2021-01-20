@@ -1,0 +1,9 @@
+                                                        HEAP SORT
+                  ______________________________________________________________________________________		    
+                  
+                  Heap sort is one of the sorting algorithms used to arrange a list of elements in order. 
+                  Heapsort algorithm uses one of the tree concepts called Heap Tree. In this sorting 
+                  algorithm, we use Max Heap to arrange list of elements in Descending order and Min Heap
+                  to arrange list elements in Ascending order.
+
+                  ______________________________________________________________________________________

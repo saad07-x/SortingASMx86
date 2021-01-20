@@ -1,0 +1,12 @@
+                                                            QUICK SORT
+                  ______________________________________________________________________________________		    
+      
+				   Like Merge Sort, QuickSort is a Divide and Conquer algorithm. It picks an element as 
+                   pivot and partitions the given array around the picked pivot. 
+                   There are many different versions of quickSort that pick pivot in different ways.
+
+                   On average, the algorithm takes O(n log n) comparisons to sort n items.
+                   In the worst case, it makes O(n2) comparisons, though this behavior is rare.
+                  ______________________________________________________________________________________
+		
+

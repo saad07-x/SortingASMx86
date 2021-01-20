@@ -1,0 +1,11 @@
+                                                                COMB SORT
+                  ______________________________________________________________________________________		    
+                  
+                    Comb sort is a comparison based sorting algorithm which improves on bubble sort. 
+                    In bubble sort, the adjacent elements are compared for sorting the array, so the 
+                    gap between the elements that are compared is 1.
+                    Comb sort uses a larger gap and works on bubble sort strategy.
+                    Worst complexity: n^2	Average complexity: n*log(n)	
+                    Best complexity: n	Space complexity: 1
+
+                  ______________________________________________________________________________________

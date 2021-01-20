@@ -1,0 +1,14 @@
+                                                        INSERTION SORT
+                  ______________________________________________________________________________________		    
+              
+                  Insertion sort is the sorting mechanism where the sorted array is built having one 
+                  item at a time.
+                  The array elements are compared with each other sequentially and then arranged 
+                  simultaneously in some particular order.
+                  This sort works on the principle of inserting an element at a particular position, 
+                  hence the name Insertion Sort.
+
+                  Worst complexity: n^2	Average complexity: n^2		
+                  Best complexity: n		Space complexity: 1
+
+                  ______________________________________________________________________________________
