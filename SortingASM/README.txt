@@ -1,4 +1,4 @@
-Read the description below for any clarification..
+Read the description below for clarifications..
 
 This project was done with Irvine32 library.
 Assembly Language code can be found in "Sort.asm" file.
